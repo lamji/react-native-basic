@@ -1,0 +1,12 @@
+{
+  "stale": false,
+  "type": "tab",
+  "key": "tab-crsHy8vVWEypzLLmTBD1w",
+  "index": 0,
+  "routeNames": ["Home", "Settings"],
+  "history": [{ "type": "route", "key": "Home-17GmoMryE2HnD5tHwj4SI" }],
+  "routes": [
+    { "name": "Home", "key": "Home-17GmoMryE2HnD5tHwj4SI" },
+    { "name": "Settings", "key": "Settings-8xuRBeJw8MW2hZy_T2dg7" }
+  ]
+}
